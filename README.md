@@ -51,8 +51,14 @@ plt.show()
 
 ## Output:
 
-<img width="1419" height="787" alt="image" src="https://github.com/user-attachments/assets/2d21cd4d-efb9-44b1-bab2-7e2e9fee8715" />
-<img width="1426" height="630" alt="image" src="https://github.com/user-attachments/assets/80b8eccf-df5b-4dcd-80d5-3b9a77aae187" />
+<img width="373" height="62" alt="image" src="https://github.com/user-attachments/assets/38f1800e-aca3-421d-b655-6a53ec0545d7" />
+
+<img width="404" height="53" alt="image" src="https://github.com/user-attachments/assets/0f677b8a-c076-4b5d-a51c-fbbcd460017d" />
+
+<img width="726" height="73" alt="image" src="https://github.com/user-attachments/assets/f2381aeb-6642-41b8-88de-9e3c90fd2a4a" />
+
+<img width="919" height="549" alt="image" src="https://github.com/user-attachments/assets/9172960a-0266-4793-bd8d-6fa6e77f2920" />
+
 
 
 ## Result:
